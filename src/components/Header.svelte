@@ -41,7 +41,9 @@
       display: flex;
       flex-flow: column;
 
-      background-color: black;
+      background-color: #417B5A;
+
+      font-weight: 500;
     }
     
     header button {
@@ -49,7 +51,7 @@
     }
 
     .mobile-header {
-      padding: 10px;
+      padding: 10px 20px;
 
       display: flex;
       justify-content: space-between;
@@ -102,7 +104,5 @@
       nav ul li {
         padding-right: 30px;
       }
-
-
     }
 </style>
